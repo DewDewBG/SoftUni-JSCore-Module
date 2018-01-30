@@ -1,0 +1,3 @@
+function calcDistance(arr) {
+
+}
